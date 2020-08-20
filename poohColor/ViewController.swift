@@ -123,7 +123,7 @@ class ViewController: UIViewController {
         gradientView.layer.addSublayer(gradientLayer)
         gradientView.bounds = poohImageView.frame
         gradientView.addSubview(poohImageView)
-        colorLabel.text = "青花瓷\n限量發售"
+        colorLabel.text = "青花瓷\n 庫存緊張"
     }
 }
 
